@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://u201613306.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 个人主页
+subtitle: "记录整理个人笔记和项目"
+description: ""
+keywords: 个人主页, Weili Xue, login
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2020
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: U201613306/U201613306.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -31,7 +31,7 @@ components:
         start_date: 2020-05-03
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
+        enabled: false
         limit: 5
     # 文章字数统计
     word_count:
@@ -39,7 +39,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
+        enabled: false
         image_alt: 闷骚的程序员
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
+author: Weili Xue
+organization: Shanghai Jiao Tong University
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: U201613306
+location: Shanghai, China
+email: 2585229025@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -74,7 +74,7 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: 文章
 
 #   -
 #     href: /archives/
@@ -86,11 +86,11 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 项目
 
   -
     href: /links/
-    label: 链接
+    label: 杂谈
 
   -
     href: /about/
