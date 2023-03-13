@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Links
-description: 没有链接的博客是孤独的
-keywords: 友情链接
-comments: true
-menu: 链接
+description: 一些蜜汁的想法
+keywords: 杂谈
+comments: false
+menu: 杂谈
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> 胡思乱想，不务正业
 
 <ul>
 {% for link in site.data.links %}
