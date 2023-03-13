@@ -1,18 +1,26 @@
-#读书笔记 
-#图形学 
-#opengl
-#code 
-
 ---
 layout: post
-title:  OpenGL 学习之路
+title:  OpenGL 学习笔记（搬运中）
 categories: Gecko
 description: 笔记搬运中ing
 keywords: 读书笔记, 图形学，opengl，code 
 
 ---
 
+# 写在前面
+
+本文是学习OpenGL的过程中所做的笔记，因为时间关系，虽然笔记已做完，但是还有相当部分待整理收集，我会持续把他搬运过来
+
+
+
+![image-20230313213359904](C:\Users\xue\AppData\Roaming\Typora\typora-user-images\image-20230313213359904.png)
+
+
+
+
+
 # 关于OpenGL
+
 实际的OpenGL库的开发者通常是显卡的生产商。你购买的显卡所支持的OpenGL版本都为这个系列的显卡专门开发的。当你使用Apple系统的时候，OpenGL库是由Apple自身维护的。在Linux下，有显卡生产商提供的OpenGL库，也有一些爱好者改编的版本。这也意味着任何时候OpenGL库表现的行为与规范规定的不一致时，基本都是库的开发者留下的bug。
 
 ===由于OpenGL的大多数实现都是由显卡厂商编写的，当产生一个bug时通常可以通过升级显卡驱动来解决。这些驱动会包括你的显卡能支持的最新版本的OpenGL，这也是为什么总是建议你偶尔更新一下显卡驱动。===
