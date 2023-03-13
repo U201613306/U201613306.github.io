@@ -1,15 +1,15 @@
 ---
 layout: wiki
-title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+title: 项目
+description: 人越做越觉得自己无知
+keywords: 项目
 comments: false
 copyright: false
 menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> Road to work or not
 
 {% case site.components.wiki.view %}
 
