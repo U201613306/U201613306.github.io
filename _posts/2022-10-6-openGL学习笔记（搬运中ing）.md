@@ -13,7 +13,7 @@ keywords: 读书笔记, 图形学，opengl，code
 
 
 
-![image-20230313213359904](C:\Users\xue\AppData\Roaming\Typora\typora-user-images\image-20230313213359904.png)
+![image-20230313213359904](https://github.com/U201613306/U201613306.github.io/raw/master/images/posts/image-20230313213359904.png)
 
 
 
