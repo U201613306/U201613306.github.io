@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  笔记： C++ primer
+title:  笔记： C++ primer 5th
 categories: code
 description: 读书笔记
 keywords: 读书笔记, code
