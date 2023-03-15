@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  OpenGL 学习笔记（搬运中）
+title:  learnOpenGL 学习笔记（搬运中）
 categories: OPENGL
 description: 笔记搬运中ing
 keywords: 读书笔记, 图形学，opengl，code 
